@@ -1,10 +1,21 @@
-  hr
-  {
+  .blue {
     background-color: #00b4ff;
     border-style: none;
     height: 2px;
   }
 
-.image1 {
+  .image1 {
     margin-right: 5px;
+  }
+
+  .SepHR {
+    margin-top: 3%;
+  }
+
+  .listSetting {
+    width: 72%;
+  }
+
+  .ListSeparation1 {
+    padding-bottom: 2px;
   }
